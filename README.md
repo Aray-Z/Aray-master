@@ -3,4 +3,4 @@
 
 在此基础上进行了一些修改，更好的适应移动端
 
-[点击此处预览](https://tckxjzc.github.io/RotateAlbum/)
+[点击此处预览](https://aray-z.github.io/Aray-master/)
